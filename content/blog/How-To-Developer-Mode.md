@@ -14,15 +14,15 @@ type = "post"
 
 ## 시작 
 
-시장에서 Chromebook 과 Chrome OS 가 주목받는 이유는 그것의 단순함 때문이다. 또한, 최근에 Android App 과 Native Linux 를 지원함에 따라 점점 강력해지고 있다. 또한, Chrome OS 는 강력한 보안 기능을 가지고 있어 라이트 PC 유저들이 사용하기에 적합하다.
+시장에서 Chromebook 과 그 안에 탑재된 Chrome OS 가 주목받는 이유는 그것의 단순함 때문이다. 또한, 최근에 Android App 과 Native Linux 를 지원함에 따라 점점 강력해지고 있다. 심지어 요즘 들리는 소문에 의하면 윈도우즈 듀얼 부팅이 가능한 Chromebook 이 출시된다고도 한다. 또한, Chrome OS 는 강력한 보안 기능을 가지고 있어 라이트 PC 유저들이 특별한 관리 없이 사용하기에 적합하다.
 
-이러한 특징들은 도리어 개발자들이 접근하기에는 어려운 부분이 있는데, 다행스럽게도 Chrome OS 는 **개발자 모드** 를 활성화할 수 있는 방법을 제공한다. 이것은 마치 Android Device 에서 root 권한을 얻는 것과 같다.
+이러한 특징들은 도리어 개발자들이 접근하기에는 불편하고 재미없는 부분이 될 수도 있는데, 다행스럽게도 Chrome OS 는 **개발자 모드** 를 활성화할 수 있는 방법을 제공한다. 이것은 마치 Android Device 에서 root 권한을 얻는 것과 같다.
 
-이 글은 개발자 모드를 활성화 하는 방법에 대하여 살펴보도록 하겠다.
+이 글은 개발자 모드를 활성화 하는 방법에 대하여 간단히 살펴보았다.
 
 ## Chromebook 에서 개발자 모드 활성화 하기
 
-1. 가장 먼저 chromebook 에 저장된 중요한 데이타를 백업한다. 개발자 모드를 활성화하게 되면 로그인 정보와 모든 저장된 정보가 날아간다. 이 정보들은 어떠한 경우라도 복구가 불가능하다. 
+1. 가장 먼저 해야 할 일은 chromebook 에 저장된 중요한 데이타를 백업하는 것이다. 개발자 모드를 활성화하게 되면 로그인 정보와 모든 저장된 정보가 날아간다. 이 정보들은 **어떠한 경우라도 복구가 불가능하다.** 
 2. Chromebook 이 켜져 있으면 끈다.
 3. 모드를 변경하기 위해서는 반드시 복구 모드(recovery mode) 로 먼저 들어가야 한다. 복구 모드로 들어가는 방법은 다음과 같다. 이미 커버는 열려진 상태일 것이고, 이 상태에서 ESC 키와 Refresh 키(ESC 키 오른쪽 3번째, 동근 모양의 화살표키) 를 누른 상태에서 전원 키를 누른다.
 4. 다음 메세지가 나올 때까지 계속 누르고 있는다. (영어는 “Chrome OS is missing or damaged. Please insert USB stick.”, 한글은 "Chrome OS가 없거나 손상되었습니다. 복구 USB 메모리 또는 SD 카드를 삽입하세요") 공포스럽게 느껴지겠지만 별거 아니니 다음 절차를 따라간다.
@@ -40,11 +40,11 @@ type = "post"
 
 ## 개발자 모드의 제약 사항
 
-Chromebook 에서 개발자 모드를 활성화 하는 것은 여러가지 잇점이 있다. Shell 을 실행할 수 있거나, Linux desktop 을 설치할 수도 있다. 물론 Chrome OS 개발자라면 더 할 나위 없겠다. There are a lot of advantages to enabling Developer Mode on your Chromebook. It gives you access to the developer shell, allows you to install a standard Linux desktop environment, and is something you will need to enable if you are a Chrome OS developer. Developer Mode is certainly not for the average user and some amount of technical know-how is needed to take full advantage of this mode.
+Chromebook 에서 개발자 모드를 활성화 하는 것은 여러가지 잇점이 있다. Shell 을 실행할 수 있거나, Linux desktop 을 설치할 수도 있다. 물론 Chrome OS 개발자라면 더 할 나위 없는 환경이 될 것이다. 
 
-However, there are a few disadvantages that you need to be wary of as well.
+그러나, 조심해야 할 몇가지 단점들이 있다. 
 
-Google doesn’t support Developer Mode, so you may be at risk of voiding your device warranty.
-All the security features are disabled when Developer Mode is turned on.
-You lose your data when enabling or disabling Developer Mode. As you can see from the steps required to disable it, an accidental press of the space bar at the wrong time is all you need to lose all your data once again. Making continuous backups if you’re working on something important is definitely recommended.
-Chromebooks boot up extremely fast. But that is a feature you will lose when Developer Mode is enabled.
+1. 공식적으로 구글은 개발자 모드를 지원하지 않는다. 따라서 기기에 대한 보증이 사라지게 될지도 모른다.
+2. 모든 보안에 관련된 기능들이 비활성화 된다. 
+3. 활성화 / 비활성화시 모든 데이타가 손실된다. 위에 언급한 비활성화 방법을 보면, 실수로 스페이스 키를 누른다면, 예기치 않게 저장된 데이타가 사라지게 된다. 따라서 개발자 모드를 활성화 했을 시 주기적으로 데이타를 백업하는 편이 좋다.
+4. Chromebook 의 장점 중 하나인 빠른 부팅은 개발자 모드가 활성화 될 때 그 본연의 기능이 상실된다. 
