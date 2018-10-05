@@ -27,9 +27,12 @@ type = "post"
 * HDMI 포트 (업무에서 발표 등 공동작업할 때 필요하다.)
 * CPU 성능 (좀 더 조사가 필요하다.)
 
+## 2018년
 
+### ACER Chromebook 14
+### HP Chromebook 13
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDM0MjE0MzJdfQ==
+eyJoaXN0b3J5IjpbMTY1NjI0OTE4N119
 -->
