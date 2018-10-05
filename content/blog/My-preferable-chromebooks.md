@@ -31,8 +31,7 @@ type = "post"
 
 ### ACER Chromebook 14
 ### HP Chromebook 13
-![비 오늘 날 차 청소하시는 기사님](https://lh3.googleusercontent.com/fafeUi3IDgxl1HFDzOKQtiTrj-dLgj1aGiwMNcboox5P69dNdZhReLiVB19d0paFTGr9YjrLInq-4g)
-
+### ASUS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0Mjk4NDE0LDE2NTYyNDkxODddfQ==
+eyJoaXN0b3J5IjpbNjcwNDYxMTkyLDE2NTYyNDkxODddfQ==
 -->
