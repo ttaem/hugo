@@ -31,8 +31,8 @@ type = "post"
 
 ### ACER Chromebook 14
 ### HP Chromebook 13
-
+![enter image description here](https://lh3.googleusercontent.com/fafeUi3IDgxl1HFDzOKQtiTrj-dLgj1aGiwMNcboox5P69dNdZhReLiVB19d0paFTGr9YjrLInq-4g)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjI0OTE4N119
+eyJoaXN0b3J5IjpbMTcwMzEzMjkwLDE2NTYyNDkxODddfQ==
 -->
