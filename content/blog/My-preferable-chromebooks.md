@@ -35,7 +35,7 @@ https://zipso.net/chromebook-specs-comparison-table/
 |--------|---------|---------|---------|--------------|---------------|---------------|------|----------|-----------|----------|----------|--------|
 |Acer|[Chromebook 13,CB713-1W](https://community.stage.acer.com/en/discussion/520475/acer-america-announces-availability-pricing-for-premium-13-inch-chromebooks-for-business)|13.5"|2256x1504|Intel Core i3 8130U|2.2|2|27800|8|32|10|n/a|
 |Acer|[Chromebook 13,CB713-1W](https://community.stage.acer.com/en/discussion/520475/acer-america-announces-availability-pricing-for-premium-13-inch-chromebooks-for-business)|13.5"|2256x1504|Intel Core i5 8250U|1.6|4|32500|8|32|10|n/a|
-|HP|[Chromebook 14 G5](http://www.amazon.co.uk/gp/product/B07B2RPGZR?ie=UTF8&linkCode=as2&camp=1634&creative=6738&creativeASIN=B07B2RPGZR)|14"|1920x1080|Intel Celeron N3350|1.1G|2|11000|4-8GB|32GB|10hr|1.54|
+|HP|[Chromebook 14 G5](http://www.amazon.co.uk/gp/product/B07B2RPGZR?ie=UTF8&linkCode=as2&camp=1634&creative=6738&creativeASIN=B07B2RPGZR)|14"|1920x1080|Intel Celeron N3350|1.1|2|11000|4-8|32|10|1.54|
 
 ## 2017년
 | Brand | Name | Scr | Resol | CPU model | CPU speed | core | Octane | Mem | Storage | Batt | Weight |
@@ -60,7 +60,7 @@ https://zipso.net/chromebook-specs-comparison-table/
 ### HP Chromebook 13
 ### ASUS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MTE1NTQ1LDEwOTAwMjg2MjEsLTE5ND
+eyJoaXN0b3J5IjpbNjM5NzQ1MzQ4LDEwOTAwMjg2MjEsLTE5ND
 M1ODM5NTYsMTk3OTY4NDczNCw2NzA0NjExOTIsMTY1NjI0OTE4
 N119
 -->
