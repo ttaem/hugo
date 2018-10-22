@@ -30,10 +30,17 @@ https://zipso.net/chromebook-specs-comparison-table/
 * CPU 성능 (좀 더 조사가 필요하다.)
 
 ## 2018년
+| Brand | Name | Month | Screen | Resolution | CPU model | CPU speed | core | Octane | Memory                           |HTML                         |
+|----------------|-------------------------------|-----------------------------|
+|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+
 
 ### ACER Chromebook 14
 ### HP Chromebook 13
 ### ASUS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwNDYxMTkyLDE2NTYyNDkxODddfQ==
+eyJoaXN0b3J5IjpbMjEyNzQyNDA4Nyw2NzA0NjExOTIsMTY1Nj
+I0OTE4N119
 -->
