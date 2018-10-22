@@ -45,14 +45,15 @@ https://zipso.net/chromebook-specs-comparison-table/
 ## 2016년
 | Brand | Name | Month | Screen | Resolution | CPU model | CPU speed | core | Octane | Memory | Storage | Battery | Weight |
 |--------|---------|---------|---------|--------------|---------------|---------------|------|----------|-----------|----------|----------|--------|
-Acer|[Chromebook 14,CP5-471 for Work|Apr|14"|1920x1080|Intel Core i3 6100U|2.3GHz|2|23300|8GB|32GB|12hr|1.45|
+|Acer|[Chromebook 14,CP5-471 for Work](http://www.amazon.com/gp/product/B01F8NNY0G?ie=UTF8&linkCode=as2&camp=1634&creative=6738&tag=pape03-20&creativeASIN=B01F8NNY0G)|Apr|14"|1920x1080|Intel Core i3 6100U|2.3GHz|2|23300|8GB|32GB|12hr|1.45|
+|Acer|[Chromebook 14,CP5-471 for Work](http://www.amazon.com/gp/product/B01EPZIMD2?ie=UTF8&linkCode=as2&camp=1634&creative=6738&creativeASIN=B01EPZIMD2)|Apr|14
 
 
 ### ACER Chromebook 14
 ### HP Chromebook 13
 ### ASUS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODc0MDY4MCwxMDkwMDI4NjIxLC0xOT
+eyJoaXN0b3J5IjpbLTUzMzgzOTgzNCwxMDkwMDI4NjIxLC0xOT
 QzNTgzOTU2LDE5Nzk2ODQ3MzQsNjcwNDYxMTkyLDE2NTYyNDkx
 ODddfQ==
 -->
