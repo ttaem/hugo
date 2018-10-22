@@ -32,12 +32,12 @@ https://zipso.net/chromebook-specs-comparison-table/
 ## 2018년
 | Brand | Name | Month | Screen | Resolution | CPU model | CPU speed | core | Octane | Memory | Storage | Battery | Weight |
 |--------|---------|---------|---------|--------------|---------------|---------------|------|----------|-----------|----------|----------|--------|
-|Acer|[Chromebook 13|https://community.stage.acer.com/en/discussion/520475/acer-america-announces-availability-pricing-for-premium-13-inch-chromebooks-for-business
+|Acer|[Chromebook 13|https://community.stage.acer.com/en/discussion/520475/acer-america-announces-availability-pricing-for-premium-13-inch-chromebooks-for-business]
 
 ### ACER Chromebook 14
 ### HP Chromebook 13
 ### ASUS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDI0ODY0NDksNjcwNDYxMTkyLDE2NT
-YyNDkxODddfQ==
+eyJoaXN0b3J5IjpbMTk3OTY4NDczNCw2NzA0NjExOTIsMTY1Nj
+I0OTE4N119
 -->
