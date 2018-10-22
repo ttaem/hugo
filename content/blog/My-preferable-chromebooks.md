@@ -38,7 +38,7 @@ https://zipso.net/chromebook-specs-comparison-table/
 |HP|[Chromebook 14 G5](http://www.amazon.co.uk/gp/product/B07B2RPGZR?ie=UTF8&linkCode=as2&camp=1634&creative=6738&creativeASIN=B07B2RPGZR)|Feb|14"|1920x1080|Intel Celeron N3350|1.1GHz|2|11000|4-8GB|32GB|10hr|1.54|
 
 ## 2017년
-| Brand | Name | Screen | Resolution | model | speed | core | Octane | Mem | Storage | Batt | Weight |
+| Brand | Name | Screen | Resolution | CPU model | CPU speed | core | Octane | Mem | Storage | Batt | Weight |
 |--------|---------|---------|---------|--------------|---------------|---------------|------|----------|-----------|----------|----------|--------|
 |Acer|[Chromebook 15,CB3-532](http://www.amazon.co.uk/gp/product/B072F7XHVQ?ie=UTF8&linkCode=as2&camp=1634&creative=6738&creativeASIN=B072F7XHVQ)|15.6"|1920x1080|Intel Celeron N3160|1.6GHz|4|8000|2-4GB|16-32GB|11.5hr|1.95|
 
@@ -60,7 +60,7 @@ https://zipso.net/chromebook-specs-comparison-table/
 ### HP Chromebook 13
 ### ASUS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzM4Mzg1MzIsMTA5MDAyODYyMSwtMT
+eyJoaXN0b3J5IjpbLTE2NDA5OTU2MDQsMTA5MDAyODYyMSwtMT
 k0MzU4Mzk1NiwxOTc5Njg0NzM0LDY3MDQ2MTE5MiwxNjU2MjQ5
 MTg3XX0=
 -->
