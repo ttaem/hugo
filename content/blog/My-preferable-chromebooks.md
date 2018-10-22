@@ -52,14 +52,15 @@ https://zipso.net/chromebook-specs-comparison-table/
 |HP|[Chromebook 13 G1](http://www.amazon.com/gp/product/B01FV2B0IW?ie=UTF8&linkCode=as2&camp=1634&creative=6738&creativeASIN=B01FV2B0IW)|May|13.3"|3200x1800|Intel Pentium 4405Y|1.5GHz|2|14800|4GB|32GB|8hr|1.29
 |HP|[Chromebook 13 G1](http://www.amazon.com/gp/product/B01EYGSKES?ie=UTF8&linkCode=as2&camp=1634&creative=6738&creativeASIN=B01EYGSKES)|Apr|13.3"|3200x1800|Intel Core m3-6Y30|900MHz|2|22800|4GB|32GB|8hr|1.29|
 |HP|[Chromebook 13 G1](http://www.amazon.com/gp/product/B01EYGSM2I?ie=UTF8&linkCode=as2&camp=1634&creative=6738&creativeASIN=B01EYGSM2I)|Apr|13.3"|3200x1800|Intel Core m5-6Y57|1.1GHz|2|28500|8GB|32GB|8hr|1.29|
-|Lenovo|[ThinkPad 13](http://shop.lenovo.com/us/en/laptops/thinkpad/13-series/chromebook/)|Jun|13.3"|1920x1080|Intel Core i5 6300U|2.4GHz|2|29400|8GB
+|Lenovo|[ThinkPad 13](http://shop.lenovo.com/us/en/laptops/thinkpad/13-series/chromebook/)|Jun|13.3"|1920x1080|Intel Core i5 6300U|2.4GHz|2|29400|8GB|32GB|10hr|1.4|
+
 
 
 ### ACER Chromebook 14
 ### HP Chromebook 13
 ### ASUS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjYwNDY2NTUsMTA5MDAyODYyMSwtMT
-k0MzU4Mzk1NiwxOTc5Njg0NzM0LDY3MDQ2MTE5MiwxNjU2MjQ5
-MTg3XX0=
+eyJoaXN0b3J5IjpbMTAyNjkwMzA0MSwxMDkwMDI4NjIxLC0xOT
+QzNTgzOTU2LDE5Nzk2ODQ3MzQsNjcwNDYxMTkyLDE2NTYyNDkx
+ODddfQ==
 -->
