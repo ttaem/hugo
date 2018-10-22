@@ -40,12 +40,17 @@ https://zipso.net/chromebook-specs-comparison-table/
 ## 2017년
 | Brand | Name | Month | Screen | Resolution | CPU model | CPU speed | core | Octane | Memory | Storage | Battery | Weight |
 |--------|---------|---------|---------|--------------|---------------|---------------|------|----------|-----------|----------|----------|--------|
-|Acer|[Chromebook 15,CB3-532](http://www.amazon.co.uk/gp/product/B072F7XHVQ?ie=UTF8&linkCode=as2&camp=1634&creative=6738&creativeASIN=B072F7XHVQ)|Feb|15.6"|1920x1080|Intel Celeron N3160|1.6GHz|4|8000
+|Acer|[Chromebook 15,CB3-532](http://www.amazon.co.uk/gp/product/B072F7XHVQ?ie=UTF8&linkCode=as2&camp=1634&creative=6738&creativeASIN=B072F7XHVQ)|Feb|15.6"|1920x1080|Intel Celeron N3160|1.6GHz|4|8000|2-4GB|16-32GB|11.5hr|1.95|
+
+## 2016년
+| Brand | Name | Month | Screen | Resolution | CPU model | CPU speed | core | Octane | Memory | Storage | Battery | Weight |
+|--------|---------|---------|---------|--------------|---------------|---------------|------|----------|-----------|----------|----------|--------|
+
 
 ### ACER Chromebook 14
 ### HP Chromebook 13
 ### ASUS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1Nzg1Mzc2LC0xOTQzNTgzOTU2LDE5Nz
-k2ODQ3MzQsNjcwNDYxMTkyLDE2NTYyNDkxODddfQ==
+eyJoaXN0b3J5IjpbMTA5MDAyODYyMSwtMTk0MzU4Mzk1NiwxOT
+c5Njg0NzM0LDY3MDQ2MTE5MiwxNjU2MjQ5MTg3XX0=
 -->
