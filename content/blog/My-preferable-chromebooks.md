@@ -34,12 +34,13 @@ https://zipso.net/chromebook-specs-comparison-table/
 |--------|---------|---------|---------|--------------|---------------|---------------|------|----------|-----------|----------|----------|--------|
 |Acer|[Chromebook 13,CB713-1W](https://community.stage.acer.com/en/discussion/520475/acer-america-announces-availability-pricing-for-premium-13-inch-chromebooks-for-business)|Sep|13.5"|2256x1504|Intel Core i3 8130U|2.2GHz|2|27800|8GB|32GB|10hr|n/a|
 |Acer|[Chromebook 13,CB713-1W](https://community.stage.acer.com/en/discussion/520475/acer-america-announces-availability-pricing-for-premium-13-inch-chromebooks-for-business)|Sep|13.5"|2256x1504|Intel Core i5 8250U|1.6GHz|4|32500|8GB|32GB|10hr|n/a|
-|HP|[Chromebook 14 G5](http://www.amazon.co.uk/gp/product/B07B2RPGZR?ie=UTF8&linkCode=as2&camp=1634&creative=6738&creativeASIN=B07B2RPGZR)|Feb|14"|1920x1080|Intel Celeron N3350|
+|HP|[Chromebook 14 G5](http://www.amazon.co.uk/gp/product/B07B2RPGZR?ie=UTF8&linkCode=as2&camp=1634&creative=6738&creativeASIN=B07B2RPGZR)|Feb|14"|1920x1080|Intel Celeron N3350|1.1GHz|2|11000|4-8GB|32GB|10hr|1.54|
+
 
 ### ACER Chromebook 14
 ### HP Chromebook 13
 ### ASUS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzg1Mzk1OCwxOTc5Njg0NzM0LDY3MD
+eyJoaXN0b3J5IjpbMTA5NTgyMDUzMiwxOTc5Njg0NzM0LDY3MD
 Q2MTE5MiwxNjU2MjQ5MTg3XX0=
 -->
