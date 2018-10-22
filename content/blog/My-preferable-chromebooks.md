@@ -33,12 +33,13 @@ https://zipso.net/chromebook-specs-comparison-table/
 | Brand | Name | Month | Screen | Resolution | CPU model | CPU speed | core | Octane | Memory | Storage | Battery | Weight |
 |--------|---------|---------|---------|--------------|---------------|---------------|------|----------|-----------|----------|----------|--------|
 |Acer|[Chromebook 13,CB713-1W](https://community.stage.acer.com/en/discussion/520475/acer-america-announces-availability-pricing-for-premium-13-inch-chromebooks-for-business)|Sep|13.5"|2256x1504|Intel Core i3 8130U|2.2GHz|2|27800|8GB|32GB|10hr|n/a|
-|Acer|[Chromebook 13,CB713-1W](https://community.stage.acer.com/en/discussion/520475/acer-america-announces-availability-pricing-for-premium-13-inch-chromebooks-for-business)|Sep|
+|Acer|[Chromebook 13,CB713-1W](https://community.stage.acer.com/en/discussion/520475/acer-america-announces-availability-pricing-for-premium-13-inch-chromebooks-for-business)|Sep|13.5"|2256x1504|Intel Core i5 8250U|1.6GHz|4|32500|8GB|32GB|10hr|n/a|
+
 
 ### ACER Chromebook 14
 ### HP Chromebook 13
 ### ASUS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTAxNTY0OTYsMTk3OTY4NDczNCw2Nz
+eyJoaXN0b3J5IjpbLTExODg4NzQ4NzksMTk3OTY4NDczNCw2Nz
 A0NjExOTIsMTY1NjI0OTE4N119
 -->
