@@ -30,6 +30,7 @@ https://zipso.net/chromebook-specs-comparison-table/
 * CPU 성능 (좀 더 조사가 필요하다.)
 
 ## 2018년
+많은 모델들이 Touch 를 지원해서 
 | Brand | Name | Month | Screen | Resolution | CPU model | CPU speed | core | Octane | Memory | Storage | Battery | Weight |
 |--------|---------|---------|---------|--------------|---------------|---------------|------|----------|-----------|----------|----------|--------|
 |Acer|[Chromebook 13,CB713-1W](https://community.stage.acer.com/en/discussion/520475/acer-america-announces-availability-pricing-for-premium-13-inch-chromebooks-for-business)|Sep|13.5"|2256x1504|Intel Core i3 8130U|2.2GHz|2|27800|8GB|32GB|10hr|n/a|
@@ -41,6 +42,6 @@ https://zipso.net/chromebook-specs-comparison-table/
 ### HP Chromebook 13
 ### ASUS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTgyMDUzMiwxOTc5Njg0NzM0LDY3MD
+eyJoaXN0b3J5IjpbLTUxODYzMjIzMywxOTc5Njg0NzM0LDY3MD
 Q2MTE5MiwxNjU2MjQ5MTg3XX0=
 -->
