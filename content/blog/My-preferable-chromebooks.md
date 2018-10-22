@@ -49,14 +49,14 @@ https://zipso.net/chromebook-specs-comparison-table/
 |Acer|[Chromebook 14,CP5-471 for Work](http://www.amazon.com/gp/product/B01EPZIMD2?ie=UTF8&linkCode=as2&camp=1634&creative=6738&creativeASIN=B01EPZIMD2)|Apr|14"|1920x1080|Intel Core i5 6200U|2.3GHz|2|28300|8GB|32GB|10hr|1.45|
 |Acer|[Chromebook 14](http://www.amazon.com/gp/product/B01CVOLVPA?ie=UTF8&linkCode=as2&camp=1634&creative=6738&tag=pape03-20&creativeASIN=B01CVOLVPA)|Apr|14"|1920x1080|Intel Celeron N3160|1.6GHz|4|8000|4GB|32GB|12hr|1.54|
 |Dell|[Chromebook 13](http://www.dell.com/en-us/work/shop/cty/dell-chromebook-13/spd/chromebook-13-7310)|Jun|13.3"|1920x1080|Intel Celeron 3215U|1.7GHz|2|17600|4GB|16GB|12hr|1.33|
-|
+|HP|[Chromebook 13 G1](http://www.amazon.com/gp/product/B01FV2B0IW?ie=UTF8&linkCode=as2&camp=1634&creative=6738&creativeASIN=B01FV2B0IW)|May|13.3"|3200x1800|Intel Pentium 4405Y|1.5GHz|2|14800|4GB|32GB|8hr|1.2
 
 
 ### ACER Chromebook 14
 ### HP Chromebook 13
 ### ASUS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDU2MzQ0ODEsMTA5MDAyODYyMSwtMT
-k0MzU4Mzk1NiwxOTc5Njg0NzM0LDY3MDQ2MTE5MiwxNjU2MjQ5
-MTg3XX0=
+eyJoaXN0b3J5IjpbNDMyMDM3NTE2LDEwOTAwMjg2MjEsLTE5ND
+M1ODM5NTYsMTk3OTY4NDczNCw2NzA0NjExOTIsMTY1NjI0OTE4
+N119
 -->
