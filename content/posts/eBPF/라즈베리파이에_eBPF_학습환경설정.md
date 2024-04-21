@@ -1,7 +1,7 @@
 ---
 title: "라즈베리파이에 eBPF 환경 설정"
 date: 2024-04-20T20:14:06+09:00
-draft: true
+draft: false
 ---
 
 ## 커널 설정
@@ -96,6 +96,19 @@ Aborted
 {{< / highlight >}}
 
 생전 처음보는 에러가 발생한다. 구글링해도 나오질 않는다. 큰일이다.
+
+
+```bash
+git commit
+ls -la
+```
+
+```ruby 
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
 
 {{< highlight bash  >}}
 {{< / highlight >}}
