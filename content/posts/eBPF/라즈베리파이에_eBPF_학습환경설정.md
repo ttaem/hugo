@@ -9,7 +9,7 @@ draft: false
 
 ## 패키지 설치
 
-{{< highlight bash  >}}
+```
 root@cklee5:/home/pi# apt-get install bpfcc-tools
 Reading package lists... Done
 Building dependency tree       
@@ -53,23 +53,23 @@ The following additional packages will be installed:
       Setting up bpfcc-tools (0.3.0-4) ...
       Processing triggers for man-db (2.8.5-2) ...
       Processing triggers for libc-bin (2.28-10+rpi1) ...
-{{< / highlight >}}
+```
 
 ## 설치 확인
 
 tcplife-bpfcc 를 실행해 본다.
 
-{{< highlight bash  >}}
+```
 ceback (most recent call last):
   File "/usr/sbin/tcplife-bpfcc", line 24, in <module>
       from bcc import BPF
       ModuleNotFoundError: No module named 'bcc'`
-{{< / highlight >}}
+```
 
 에러가 발생한다.  
 확인해 보니 python2에 설치가 되어있다.
 
-{{< highlight bash  >}}
+```
 root@cklee5:/usr/lib/python2.7# !f
 find . -name "*bcc*"
 ./dist-packages/jinja2/bccache.pyc
@@ -78,37 +78,24 @@ find . -name "*bcc*"
 ./dist-packages/bcc
 ./dist-packages/bcc/libbcc.pyc
 ./dist-packages/bcc/libbcc.py
-{{< / highlight >}}
+```
 
 python3로 설치하는 방법이 있다.
 
-{{< highlight bash  >}}
+```
 root@cklee5:/home/pi# sudo apt-get install -y python3-bpfcc
-{{< / highlight >}}
+```
 
 다시 실행해 본다. 커널 빌드 정보가 없다. 지금 내 보드는 직접 크로스 컴파일한 커널을 이미지와 모듈들만 수동으로 가져와서 추가 빌드에 필요한 부분이 필요한 것 같다.  
 일단 라즈베리파이에서 직접 빌드한 커널이 있는 보드가 있어 거기에서 우선 작업한다.
 
-{{< highlight bash >}}
+```
 pi@cklee7:~/work $ tcplife-bpfcc
 python3: /usr/lib/llvm-11/include/llvm/ADT/PointerIntPair.h:178: static intptr_t llvm::PointerIntPairInfo<PointerT, IntBits, PtrTraits>::updatePointer(intptr_t, PointerT) [with PointerT = clang::Stmt*; unsigned int IntBits = 1; PtrTraits = llvm::PointerLikeTypeTraits<clang::Stmt*>; intptr_t = int]: Assertion `(PtrWord & ~PointerBitMask) == 0 && "Pointer is not sufficiently aligned"' failed.
 Aborted
-{{< / highlight >}}
+```
 
 생전 처음보는 에러가 발생한다. 구글링해도 나오질 않는다. 큰일이다.
 
 
-```bash
-git commit
-ls -la
-```
 
-```ruby 
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
-
-
-{{< highlight bash  >}}
-{{< / highlight >}}
