@@ -8,6 +8,10 @@ draft: false
 기본으로 설정되어 있다. 나중에 추가 예정
 
 ## 패키지 설치
+```
+root@cklee5:/home/pi# sudo apt-get install -y python-bpfcc
+```
+위와 같이 하면 아래에 문제가 된다.
 
 ```
 root@cklee5:/home/pi# apt-get install bpfcc-tools
