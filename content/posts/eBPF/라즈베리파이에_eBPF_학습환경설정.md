@@ -84,6 +84,39 @@ python3로 설치하는 방법이 있다.
 
 ```
 root@cklee5:/home/pi# sudo apt-get install -y python3-bpfcc
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following package was automatically installed and is no longer required:
+  libfuse2
+Use 'sudo apt autoremove' to remove it.
+The following additional packages will be installed:
+  libbpfcc libclang-cpp11
+The following NEW packages will be installed:
+  libbpfcc libclang-cpp11 python3-bpfcc
+0 upgraded, 3 newly installed, 0 to remove and 347 not upgraded.
+Need to get 8,908 kB of archives.
+After this operation, 42.9 MB of additional disk space will be used.
+Do you want to continue? [Y/n] 
+Get:1 http://raspbian.raspberrypi.org/raspbian bullseye/main armhf libclang-cpp11 armhf 1:11.0.1-2+rpi1 [8,275 kB]
+Get:2 http://raspbian.raspberrypi.org/raspbian bullseye/main armhf libbpfcc armhf 0.18.0+ds-2 [593 kB]                              
+Get:3 http://raspbian.raspberrypi.org/raspbian bullseye/main armhf python3-bpfcc all 0.18.0+ds-2 [40.4 kB]                          
+Fetched 8,908 kB in 2min 1s (73.6 kB/s)                                                                                             
+Selecting previously unselected package libclang-cpp11.
+(Reading database ... 102401 files and directories currently installed.)
+Preparing to unpack .../libclang-cpp11_1%3a11.0.1-2+rpi1_armhf.deb ...
+Unpacking libclang-cpp11 (1:11.0.1-2+rpi1) ...
+Selecting previously unselected package libbpfcc.
+Preparing to unpack .../libbpfcc_0.18.0+ds-2_armhf.deb ...
+Unpacking libbpfcc (0.18.0+ds-2) ...
+Selecting previously unselected package python3-bpfcc.
+Preparing to unpack .../python3-bpfcc_0.18.0+ds-2_all.deb ...
+Unpacking python3-bpfcc (0.18.0+ds-2) ...
+Setting up libclang-cpp11 (1:11.0.1-2+rpi1) ...
+Setting up libbpfcc (0.18.0+ds-2) ...
+Setting up python3-bpfcc (0.18.0+ds-2) ...
+Processing triggers for libc-bin (2.31-13+rpt2+rpi1+deb11u2) ...
+ldconfig: /home/pi/lib/libiperf.so.0 is not a symbolic link
 ```
 
 다시 실행해 본다. 커널 빌드 정보가 없다. 지금 내 보드는 직접 크로스 컴파일한 커널을 이미지와 모듈들만 수동으로 가져와서 추가 빌드에 필요한 부분이 필요한 것 같다.  
